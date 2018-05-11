@@ -1,5 +1,4 @@
-# Project Proposal
-_info498-finalproject_
+# INFO 498 Final Project Proposal
 
 
 ## Introduction
