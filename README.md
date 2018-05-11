@@ -18,14 +18,14 @@ While there may not be a direct biological causal relationship between Climate C
 3. Do different natural disasters have different effects on mental health of the states’ population? (Eg: Hurricane Harvey & Hurricane Katrina) 
 > Use a two sample t-test or a wilcoxon rank sum test, depending on normality of data, to compare the mental health measure across a time period for two major environmental disasters.
 
-##Information about Datasets
+## Information about Datasets
 For the purpose of our project, we would be working with a variety of datasets. The information for all of them are listed below:  
 
-(Climate Change: Earth Surface Temperature Data)[https://www.kaggle.com/berkeleyearth/climate-change-earth-surface-temperature-data/data]
-(NCDC Storm Events Dataset)[https://catalog.data.gov/dataset/ncdc-storm-events-database]
-(National Mental Health Services Survey (N-MHSS-2010))[https://catalog.data.gov/dataset/national-mental-health-services-survey-n-mhss-2010-c0393]
-(US Chronic Disease Indicators)[https://catalog.data.gov/dataset/u-s-chronic-disease-indicators-cdi]
-(Behavioral Risk Factor Data: Health-Related Quality of Life (HRQOL))[https://catalog.data.gov/dataset/behavioral-risk-factor-data-health-related-quality-of-life-hrqol-76ea6]
+[Climate Change: Earth Surface Temperature Data](https://www.kaggle.com/berkeleyearth/climate-change-earth-surface-temperature-data/data)
+[NCDC Storm Events Dataset](https://catalog.data.gov/dataset/ncdc-storm-events-database)
+[National Mental Health Services Survey (N-MHSS-2010)](https://catalog.data.gov/dataset/national-mental-health-services-survey-n-mhss-2010-c0393)
+[US Chronic Disease Indicators](https://catalog.data.gov/dataset/u-s-chronic-disease-indicators-cdi)
+[Behavioral Risk Factor Data: Health-Related Quality of Life (HRQOL)](https://catalog.data.gov/dataset/behavioral-risk-factor-data-health-related-quality-of-life-hrqol-76ea6)
 
 ## Target Audience
 1. US population: The US population can use this data to get information about the places with a pretty high rate of natural disasters and how  it can affect their mental health. 
@@ -52,9 +52,9 @@ For many of the visualizations, a statistical prediction model or machine learni
   
 ## References
 
-1. (United Nations Framework Convention on Climate Change(UNFCC))[https://unfccc.int/news/president-obama-climate-change-greatest-threat-to-future-generations]
-2. (McMichael, J Anthony et.al. “Climate Change and human health: present and future risks”. )[https://www.sciencedirect.com/science/article/pii/S0140673606680793]
-3. (Frachini et al. “Impact on human health of climate changes”)[https://www.ncbi.nlm.nih.gov/pubmed/25582074]
-4. (Lendrum, Campbell Diarmid et. al. “Comparative Risk Assessment of the Burden of Disease from Climate Change”)[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1764135/]
-5. (Patz, A Jonathan et. al. “Impact of regional climate change on human health”.)[http://www.precaution.org/lib/05/warming_harms_health.051117.pdf]
-6. (Reacher M, et. al. “Health impacts of flooding in Lewes: a comparison of reported gastrointestinal and other illness and mental health in flooded and non-flooded households.”)[https://www.ncbi.nlm.nih.gov/pubmed/15137280]
+1. [United Nations Framework Convention on Climate Change(UNFCC)](https://unfccc.int/news/president-obama-climate-change-greatest-threat-to-future-generations)
+2. [McMichael, J Anthony et.al. “Climate Change and human health: present and future risks”.](https://www.sciencedirect.com/science/article/pii/S0140673606680793)
+3. [Frachini et al. “Impact on human health of climate changes”](https://www.ncbi.nlm.nih.gov/pubmed/25582074)
+4. [Lendrum, Campbell Diarmid et. al. “Comparative Risk Assessment of the Burden of Disease from Climate Change”](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1764135/)
+5. [Patz, A Jonathan et. al. “Impact of regional climate change on human health”.](http://www.precaution.org/lib/05/warming_harms_health.051117.pdf)
+6. [Reacher M, et. al. “Health impacts of flooding in Lewes: a comparison of reported gastrointestinal and other illness and mental health in flooded and non-flooded households.”](https://www.ncbi.nlm.nih.gov/pubmed/15137280)
